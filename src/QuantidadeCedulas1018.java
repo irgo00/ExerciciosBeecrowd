@@ -15,7 +15,7 @@ import java.util.Scanner;
  * o fim de linha após cada linha, caso contrário seu programa apresentará a
  * mensagem: “Presentation Error”.
  *
- * @author mazoi
+ * @author irgo
  */
 public class QuantidadeCedulas1018 {
 
